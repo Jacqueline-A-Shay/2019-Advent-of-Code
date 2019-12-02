@@ -4,7 +4,7 @@ Please find the challenge details at: https://adventofcode.com/
 Briefly, two challenges will be released daily through December 25th.  
 
 **Goal**
-<b> To polish Python skill <b/>
+<b> To polish Python skill <b\>
 
 **Dependencies**
 1. Python 3 & Jupyter Notebook
