@@ -12,4 +12,4 @@ To polish Python skill
 
 1. Python 3 & Jupyter Notebook
 
-2. Download the corresponding document (labeled as MM.DD.YY)
+2. Download the corresponding document for each challenge (labeled as MM.DD.YY.txt)
