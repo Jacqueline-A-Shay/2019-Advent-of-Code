@@ -1,8 +1,8 @@
-Welcome to my 2019 Advent of Code!
+**Welcome to the 2019 Advent of Code!**
 
 Please find the challenge details at: https://adventofcode.com/
 
-Briefly, two challenges will be released daily through December 25th.  
+Briefly, two challenges will be released daily December 1st through December 25th.  
 
 **Goal**
 
